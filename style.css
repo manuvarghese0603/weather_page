@@ -1,0 +1,225 @@
+body
+{
+    background-color: bisque;
+}
+.desert
+{
+    width: 100%;
+    height: 400px;
+    opacity: 0.8;
+    text-align: center;
+    display: block;
+    margin: 0%; 
+    border-radius: 4px;
+}
+.time
+{
+    position: absolute;
+    top: 80px;
+    left: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    opacity: 0.8;
+}
+.day
+{
+    position: absolute;
+    top: 170px;
+    left: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    opacity: 0.8;
+}
+
+
+.city
+{
+    position: absolute;
+    top: 100px;
+    right: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    opacity: 0.8;
+}
+
+.country
+{
+    position: absolute;
+    top: 170px;
+    right: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    opacity: 0.5;
+}
+.sun
+{
+    
+    width: 120px;
+    height: 120px;
+    opacity: 0.8;
+    margin-left: 50px;
+}
+.t42 
+{
+    font-size: 80px; 
+    position: absolute;
+    bottom: 80px;
+    left: 260px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity: 0.8; 
+}
+
+.t28
+{
+    font-size: 80px; 
+    position: absolute;
+    bottom: 10px;
+    left: 260px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity: 0.8
+}
+
+.external
+{
+    font-size: 40px; 
+    position: absolute;
+    bottom: 100px;
+    left: 520px;
+    font-family: 'Raleway',sans-serif,'serif',sans-serif;
+    opacity: 0.8; 
+}
+.internal
+{
+    font-size: 40px; 
+    position: absolute;
+    bottom: 30px;
+    left: 520px;
+    font-family: 'Raleway',sans-serif,'serif',sans-serif;
+    opacity: 0.8; 
+}
+.dash1
+{
+    color: red;
+    font-size: 40px;
+    position: absolute;
+    bottom: 120px;
+    left: 450px;    
+}
+
+.dash2
+{
+    color: red;
+    font-size: 40px;
+    position: absolute;
+    bottom: 50px;
+    left: 450px;
+}
+.sunny
+{
+    font-family: 'Klee One',cursive,'serif',sans-serif;
+    position: absolute;
+    bottom: 0px;
+    left: 50px;
+    font-size: 20px;
+}
+.humidityimg
+{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    bottom: 80px;
+    right: 510px;
+}
+.humiditytxt
+{
+    position: absolute;
+    bottom: 30px;
+    right: 490px;
+    font-family: 'Klee One',cursive,'serif',sans-serif;
+    font-size: 20px;
+}
+.humiditynum
+{
+    position: absolute;
+    bottom: 0px;
+    right: 530px;
+    font-family: 'Klee One',cursive,'serif',sans-serif;
+    font-size: 20px;
+}
+.co2img
+{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    bottom: 80px;
+    right: 300px;
+
+}
+.co2txt
+{
+    position: absolute;
+    bottom: 30px;
+    right: 250px;
+    font-family: 'Klee One',cursive,'serif',sans-serif;
+    font-size: 20px;
+}
+.co2num
+{
+    position: absolute;
+    bottom: 0px;
+    right: 300px;
+    font-family: 'Klee One',cursive,'serif',sans-serif;
+    font-size: 20px;
+}
+.tvocimg
+{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    bottom: 80px;
+    right: 100px;
+    
+}
+.tvoctxt
+{
+    position: absolute;
+    bottom: 30px;
+    right: 50px;
+    font-family: 'Klee One',cursive,'serif',sans-serif;
+    font-size: 20px;
+}
+.tvocnum
+{
+    position: absolute;
+    bottom: 0px;
+    right: 110px;
+    font-family: 'Klee One',cursive,'serif',sans-serif;
+    font-size: 20px;
+}
+.dash3
+{
+    color: red;
+    font-size: 40px;
+    position: absolute;
+    bottom: 25px;
+    right: 110px;    
+}
+.dash4
+{
+    color: red;
+    font-size: 40px;
+    position: absolute;
+    bottom: 25px;
+    right: 530px;   
+}
+.dash5
+{
+    color: red;
+    font-size: 40px;
+    position: absolute;
+    bottom: 25px;
+    right: 300px;    
+}
